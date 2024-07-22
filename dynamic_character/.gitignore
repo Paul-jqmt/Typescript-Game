@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json/
+package.json/
+deleted.ts/
+pseudo-code.txt/

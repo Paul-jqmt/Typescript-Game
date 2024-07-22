@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Ganon",
+    "hp": 350,
+    "mp": 100,
+    "str": 15,
+    "int": 13,
+    "def": 10,
+    "res": 9,
+    "spd": 5,
+    "luck": 0,
+    "race": 12,
+    "class": 8,
+    "rarity": 1
+  }
+]

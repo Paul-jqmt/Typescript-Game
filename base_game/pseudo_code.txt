@@ -1,0 +1,6 @@
+récuperer le choix de la personne dans des if pour appliquer l'action qu'il choisi et récuperer l'erreur si il ne tape pas ce que je veux 
+modifier mes valeurs dans le json pour qu'a chaque attaque/heal la suivante recommence avec la donnée modifié 
+Pour changer de salle je vais créer une variable qui commence à 0 et qui des que mon adversaire passe sous 0 hp monte de 1
+Chaque adversaire que je vais afronter vas etre de l'index du floor stage avec pour max 10
+Je dois après chaque attaque check si le monstre en face de moi est à 0 hp pour deux raisons qu'il ne m'attaque pas une fois mort et pour passer au niveau suivant
+Tout mon code doit être dans une boucle while avec la vie du héro comme boucle de sortie, si le héro meurt fin du jeu 
